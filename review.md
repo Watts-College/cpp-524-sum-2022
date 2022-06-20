@@ -2,7 +2,7 @@
 layout: review
 
 
-root-url: 'https://raw.githubusercontent.com/Watts-College/cpp-524-fall-2021/master/review-sessions/'
+root-url: 'https://raw.githubusercontent.com/Watts-College/cpp-524-sum-2022/master/review-sessions/'
 
 
 session: 
