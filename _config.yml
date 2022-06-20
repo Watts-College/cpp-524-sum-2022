@@ -17,14 +17,14 @@ brand:
 
 # Site subpath, e.g. /blog
 url :               "https://watts-college.github.io"
-baseurl:            "/cpp-524-fall-2021"
-course_url:         "http://watts-college.github.io/cpp-524-fall-2021/"
+baseurl:            "/cpp-524-sum-2022"
+course_url:         "http://watts-college.github.io/cpp-524-sum-2022/"
 
 github_info:
     username:          watts-college # Github location of the course
     branch:            master
-    website-repo:      cpp-524-fall-2021
-    course-repo:       cpp-524-fall-2021
+    website-repo:      cpp-524-sum-2022
+    course-repo:       cpp-524-sum-2022
     
 
 # header color set at assets/css/custom.css under default_nav and footer background-color
@@ -35,7 +35,7 @@ header:
 - title: Course Schedule
   url: schedule/
 - title: Yellowdig
-  url: 'https://canvas.asu.edu/courses/99226/assignments/2552477'
+  url: 'https://canvas.asu.edu/courses/122493/assignments/3243523'
 - title: Resources 
   url: resources/
 - title: Review Sessions 
