@@ -3,7 +3,7 @@ layout: default
 title: Schedule
 
 canvas: 
-  assignment_url: 'https://canvas.asu.edu/courses/99226/assignments'
+  assignment_url: 'https://canvas.asu.edu/courses/122493/assignments'
 
 labs:
   lab-01:  'Wednesday, Oct 20th' 
@@ -23,9 +23,9 @@ final:
   project:    'Sat Nov 27'  
   exam-date:  'Mon Nov 29  - Fri Dec 3'  
 
-pdf-root-url: "https://github.com/Watts-College/cpp-524-fall-2021/raw/main/" 
+pdf-root-url: "https://github.com/Watts-College/cpp-524-sum-2022/raw/main/" 
 
-yellowdig: "https://canvas.asu.edu/courses/86712/assignments/2210979"
+yellowdig: "https://canvas.asu.edu/courses/122493/assignments/3243523"
 
 ---
 
