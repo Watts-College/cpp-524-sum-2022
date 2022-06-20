@@ -13,14 +13,14 @@ info:
  course_title: Foundations of Program Evaluation Part II
  course_number: CPP 524 
  course_level: Graduate 
- course_website: 'https://canvas.asu.edu/courses/99226'
- course_start_end_dates: October 13 to December 3, 2021  
+ course_website: 'https://canvas.asu.edu/courses/122493'
+ course_start_end_dates: June 29 to August 9, 2022  
  course_prerequisites: CPP 523 or similar regression course
  class_meets_when:  Asynchronous  
  class_meets_where:  'https://asu.zoom.us/j/87540573400'
  review_sessions_when: Monday 12pm AZ 
  review_sessions_where: 'https://asu.zoom.us/j/87540573400'
- discussion_board_url: 'https://watts-college.github.io/cpp-524-fall-2021/help/'
+ discussion_board_url: 'https://watts-college.github.io/cpp-524-sum-2022/help/'
 
 instructor:
 -  name: Jesse Lecy
@@ -168,7 +168,7 @@ Grades for the course are largely based on weekly labs. Assigned work is accompa
 
 **Course content** is hosted on this website. Lecture files, assignments and other course communications will be transmitted via this site and/or through the class email list. **All assignment submissions** will be made through the [Canvas shell](https://canvas.asu.edu). 
 
-Please post lab questions on the [Get Help](https://ds4ps.github.io/cpp-524-sum-2020/help/) page on this site, schedule individual office hours using the Calendly link provided above, and email the instructor directly instead of using the Canvas system. 
+Please post lab questions on the [Get Help](https://watts-college.github.io/cpp-524-sum-2022/help/) page on this site, schedule individual office hours using the Calendly link provided above, and email the instructor directly instead of using the Canvas system. 
 
 Students should be aware that the course instructor will attempt to respond to any course-related email as quickly as possible. Students are asked to allow between 24 and 48 hours for replies to direct instructor emails, generally, as a reasonable time to reply to questions or other issues posed in an email. Additionally, the general timeline for instructor grading or other feedback on assignments, either writer work or online discussion work, is between 5 and 10 work days.
 
