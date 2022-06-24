@@ -6,22 +6,22 @@ canvas:
   assignment_url: 'https://canvas.asu.edu/courses/122493/assignments'
 
 labs:
-  lab-01:  'Wednesday, Oct 20th' 
-  lab-02:  'Wednesday, Oct 27th'
-  lab-03:  'Wednesday, Nov 3rd'
-  lab-04:  'Wednesday, Nov 10th'
-  lab-05:  'Wednesday, Nov 17th'
-  lab-06:  'Friday, Dec 3rd'
+  lab-01:  'Wednesday, July 6th' 
+  lab-02:  'Wednesday, July 13th'
+  lab-03:  'Wednesday, Jul 20th'
+  lab-04:  'Wednesday, July 27th'
+  lab-05:  'Wednesday, Aug 3rd'
+  lab-06:  'Tuesday, Aug 9th'
   
 project:
-  step-01:  'Saturday, Oct 23rd'
-  step-02:  'Saturday, Oct 30th'
-  step-03:  'Saturday, Nov 6th'
-  step-04:  'Saturday, Nov 13th'
+  step-01:  'Saturday, July 9th'
+  step-02:  'Saturday, July 16th'
+  step-03:  'Saturday, July 23rd'
+  step-04:  'Saturday, July 30th'
 
 final: 
-  project:    'Sat Nov 27'  
-  exam-date:  'Mon Nov 29  - Fri Dec 3'  
+  project:    'Sunday Aug 6th'  
+  exam-date:  'Friday Aug 5th  - Tuesday Aug 9th'  
 
 pdf-root-url: "https://github.com/Watts-College/cpp-524-sum-2022/raw/main/" 
 
