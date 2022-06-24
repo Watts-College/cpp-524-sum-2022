@@ -17,25 +17,25 @@ info:
  course_start_end_dates: June 29 to August 9, 2022  
  course_prerequisites: CPP 523 or similar regression course
  class_meets_when:  Asynchronous  
- class_meets_where:  'https://asu.zoom.us/j/87540573400'
- review_sessions_when: Monday 12pm AZ 
- review_sessions_where: 'https://asu.zoom.us/j/87540573400'
+ class_meets_where:  'https://asu.zoom.us/j/5870336502'
+ review_sessions_when: Monday 6pm AZ 
+ review_sessions_where: 'https://asu.zoom.us/j/5870336502'
  discussion_board_url: 'https://watts-college.github.io/cpp-524-sum-2022/help/'
 
 instructor:
--  name: Jesse Lecy
-   title: Professor
-   email: jdlecy@asu.edu   
-   office_location: 'https://asu.zoom.us/j/87540573400'
-   website_url: 'http://www.lecy.info/'
-   github_url: 'https://github.com/lecy' 
+-  name: Jason Sills
+   title: Faculty Associate
+   email: jsills1@asu.edu
+   office_location: virtual
+   website_url: 
+   github_url: 'https://github.com/JasonSills' 
    twitter_url: 
-   scholar_url: 'https://scholar.google.com/citations?user=Ir8H4wMAAAAJ&hl=en'
-   linked_in_url:
-   office_hours_time: Flexible
-   office_hours_location:  'https://asu.zoom.us/j/87540573400'
-   office_hours_app_url: 'https://calendly.com/lecy/30min'
-
+   scholar_url: 
+   linked_in_url: 
+   office_hours_time: By appointment
+   office_hours_location:  Zoom
+   office_hours_app_url:  'mailto:jsills1@asu.edu'
+   
    
 
 textbooks:
