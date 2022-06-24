@@ -20,7 +20,7 @@ project:
   step-04:  'Saturday, July 30th'
 
 final: 
-  project:    'Sunday Aug 6th'  
+  project:    'Sunday Aug 7th'  
   exam-date:  'Friday Aug 5th  - Tuesday Aug 9th'  
 
 pdf-root-url: "https://github.com/Watts-College/cpp-524-sum-2022/raw/main/" 
