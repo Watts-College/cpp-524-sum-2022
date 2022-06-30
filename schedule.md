@@ -6,7 +6,7 @@ canvas:
   assignment_url: 'https://canvas.asu.edu/courses/122493/assignments'
 
 labs:
-  lab-01:  'Wednesday, July 6th' 
+  lab-01:  'Thursday, July 7th' 
   lab-02:  'Wednesday, July 13th'
   lab-03:  'Wednesday, Jul 20th'
   lab-04:  'Wednesday, July 27th'
