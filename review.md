@@ -8,8 +8,8 @@ root-url: 'https://raw.githubusercontent.com/Watts-College/cpp-524-sum-2022/mast
 session:
 - First Day of Class:
   date:  'Wednesday, June 29th'  
-  video: ''
-  password: ''
+  video: 'https://asu.zoom.us/rec/share/D4QTSESrszUdnq7WJMgMoEJw15K8uaggJZh3lYGnsBPLV_3xJvAW-EdP7Hf1SbIu.Gxph20dIo2ZOokMd'
+  password: '4#$6Mnv*'
 - week1:
   date:  'Tuesday, July 5th'  
   video: ''
