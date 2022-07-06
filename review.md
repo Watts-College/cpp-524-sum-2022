@@ -12,8 +12,8 @@ session:
   password: '4#$6Mnv*'
 - week1:
   date:  'Tuesday, July 5th'  
-  video: ''
-  password: ''
+  video: 'https://asu.zoom.us/rec/share/XRxTFuSO5pB3KTZtenLZuGiWOxEdb2uMUEv3u4vw0ceaUn38D981CZrIcU2Y6ePR.t_v31FuEEjyMYiui'
+  password: 'Hu!Zm3*='
 - week2:
   date:  'Monday, July 11th'  
   video: 'https://youtu.be/yqbxhY_eIXk'
